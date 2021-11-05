@@ -1,4 +1,4 @@
-﻿ouble OneFriends = 1;
+﻿double OneFriends = 1;
 double SecondFriends = 2;
 double DogSpeed = 5;
 double distance = 10000;
